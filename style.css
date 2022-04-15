@@ -1,0 +1,13 @@
+body {
+    background: linear-gradient(#363636 0%, #696969 100%);
+    text-align: center;
+}
+section {
+    background: linear-gradient(#363636 100%, #696969 0%);
+    text-align: center;
+    border-radius: 60px;
+}
+iframe {
+    width: 1300px;
+    border-radius: 60px;
+}
